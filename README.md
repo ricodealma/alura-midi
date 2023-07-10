@@ -1,6 +1,6 @@
 # Projeto de Estudos - Teclado Musical
 
-Este é um projeto prático para estudos, desenvolvido com o objetivo de aprimorar o conhecimento em programação e interação com elementos HTML.
+Este é um projeto prático para estudos, desenvolvido com o objetivo de aprimorar o conhecimento em programação na linguagem JavaScript e gerar interação com elementos HTML.
 
 ## Funcionalidades
 
